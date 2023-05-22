@@ -7,3 +7,4 @@
 
 * Comando git push
 * Comando git pull
+* Testando git pull ( Alteração local)
