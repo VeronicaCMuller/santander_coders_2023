@@ -11,3 +11,5 @@
 * Testando git pull ( Alteração local)
 =======
 * Testando o comando git pull
+
+* Comando git fetch
